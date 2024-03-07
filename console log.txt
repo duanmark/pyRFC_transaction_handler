@@ -1,0 +1,12 @@
+[2024-03-07 11:26:38.305746 UTC] Server '1806292661360 created'
+[2024-03-07 11:26:38.475513 UTC] Server function IDOC_INBOUND_ASYNCHRONOUS 'installed'
+[2024-03-07 11:26:38.475513 UTC] Server function IDOC_INBOUND_ASYNCHRONOUS '{'func_desc_handle': 1806235554928, 'callback': <function handle_idoc at 0x000001A48BB1CB80>, 'server': <pyrfc._cyrfc.Server object at 0x000001A48C2BF340>}'
+[2024-03-07 11:26:38.475513 UTC] Server 1806292661360 'Transaction handlers installed: 4'
+[2024-03-07 11:26:38.476071 UTC] Transaction handler check '<function onCheckTransaction at 0x000001A48BB1DBC0>'
+[2024-03-07 11:26:38.476071 UTC] Transaction handler commit '<function onCommitTransaction at 0x000001A48BB98CC0>'
+[2024-03-07 11:26:38.476071 UTC] Transaction handler rollback '<function onRollbackTransaction at 0x000001A48C301DA0>'
+[2024-03-07 11:26:38.476071 UTC] Transaction handler confirm '<function onConfirmTransaction at 0x000001A48C301D00>'
+[2024-03-07 11:26:38.488576 UTC] Server '1806292661360 started'[2024-03-07 11:26:38.488576 UTC] Server '1806292661360 launched'
+
+Press Enter to stop server...Executed onCheckTransaction Python function 1806292549104 AC110002460065E9A4780000
+[2024-03-07 11:26:50.947089 UTC] metadataLookup 'Function 'IDOC_INBOUND_ASYNCHRONOUS' handle 1806235554928.'
